@@ -1,0 +1,98 @@
+{
+    "1": {
+        "bowlers": [
+            {"rank": 1, "name": "Ravichandran Ashwin", "team": "Tamil Nadu", "wickets": 67, "matches": 7, "average": 15.89, "best_figures": "7/56"},
+            {"rank": 2, "name": "Shahbaz Nadeem", "team": "Jharkhand", "wickets": 51, "matches": 6, "average": 19.23, "best_figures": "6/18"},
+            {"rank": 3, "name": "Jaydev Unadkat", "team": "Saurashtra", "wickets": 49, "matches": 6, "average": 20.12, "best_figures": "6/85"},
+            {"rank": 4, "name": "Rahul Chahar", "team": "Rajasthan", "wickets": 45, "matches": 6, "average": 22.33, "best_figures": "5/45"},
+            {"rank": 5, "name": "Saurabh Kumar", "team": "Uttar Pradesh", "wickets": 43, "matches": 6, "average": 23.45, "best_figures": "5/33"}
+        ],
+        "batsmen": [
+            {"rank": 1, "name": "Mayank Agarwal", "team": "Karnataka", "runs": 990, "matches": 6, "average": 82.50, "highest_score": "249"},
+            {"rank": 2, "name": "Cheteshwar Pujara", "team": "Saurashtra", "runs": 875, "matches": 6, "average": 79.54, "highest_score": "248"},
+            {"rank": 3, "name": "Shubman Gill", "team": "Punjab", "runs": 728, "matches": 5, "average": 104.00, "highest_score": "268"},
+            {"rank": 4, "name": "Abhimanyu Easwaran", "team": "Bengal", "runs": 698, "matches": 6, "average": 69.80, "highest_score": "201"},
+            {"rank": 5, "name": "Ruturaj Gaikwad", "team": "Maharashtra", "runs": 660, "matches": 6, "average": 73.33, "highest_score": "220"}
+        ]
+    },
+    "2": {
+        "bowlers": [
+            {"rank": 1, "name": "Jaydev Unadkat", "team": "Rest of India", "wickets": 8, "matches": 1, "average": 15.25, "best_figures": "4/61"},
+            {"rank": 2, "name": "Ravichandran Ashwin", "team": "Rest of India", "wickets": 6, "matches": 1, "average": 18.33, "best_figures": "3/55"},
+            {"rank": 3, "name": "Saurabh Kumar", "team": "Rest of India", "wickets": 5, "matches": 1, "average": 20.40, "best_figures": "3/102"},
+            {"rank": 4, "name": "Rahul Chahar", "team": "Rest of India", "wickets": 4, "matches": 1, "average": 22.50, "best_figures": "2/45"},
+            {"rank": 5, "name": "Navdeep Saini", "team": "Rest of India", "wickets": 3, "matches": 1, "average": 25.33, "best_figures": "2/76"}
+        ],
+        "batsmen": [
+            {"rank": 1, "name": "Yashasvi Jaiswal", "team": "Rest of India", "runs": 213, "matches": 1, "average": 106.50, "highest_score": "144"},
+            {"rank": 2, "name": "Hanuma Vihari", "team": "Rest of India", "runs": 180, "matches": 1, "average": 90.00, "highest_score": "180"},
+            {"rank": 3, "name": "Abhimanyu Easwaran", "team": "Rest of India", "runs": 154, "matches": 1, "average": 77.00, "highest_score": "154"},
+            {"rank": 4, "name": "Ruturaj Gaikwad", "team": "Rest of India", "runs": 108, "matches": 1, "average": 54.00, "highest_score": "108"},
+            {"rank": 5, "name": "Sarfaraz Khan", "team": "Rest of India", "runs": 95, "matches": 1, "average": 47.50, "highest_score": "95"}
+        ]
+    },
+    "3": {
+        "bowlers": [
+            {"rank": 1, "name": "Yuzvendra Chahal", "team": "Haryana", "wickets": 22, "matches": 7, "average": 12.68, "best_figures": "5/31"},
+            {"rank": 2, "name": "Ravi Bishnoi", "team": "Rajasthan", "wickets": 18, "matches": 6, "average": 15.22, "best_figures": "4/28"},
+            {"rank": 3, "name": "Shahbaz Ahmed", "team": "Bengal", "wickets": 16, "matches": 6, "average": 16.75, "best_figures": "4/22"},
+            {"rank": 4, "name": "Rahul Chahar", "team": "Rajasthan", "wickets": 15, "matches": 6, "average": 18.20, "best_figures": "3/25"},
+            {"rank": 5, "name": "Kuldeep Yadav", "team": "Uttar Pradesh", "wickets": 14, "matches": 5, "average": 19.14, "best_figures": "3/30"}
+        ],
+        "batsmen": [
+            {"rank": 1, "name": "Ruturaj Gaikwad", "team": "Maharashtra", "runs": 660, "matches": 5, "average": 132.00, "highest_score": "220"},
+            {"rank": 2, "name": "Shubman Gill", "team": "Punjab", "runs": 580, "matches": 5, "average": 116.00, "highest_score": "187"},
+            {"rank": 3, "name": "Ishan Kishan", "team": "Jharkhand", "runs": 540, "matches": 5, "average": 108.00, "highest_score": "173"},
+            {"rank": 4, "name": "Devdutt Padikkal", "team": "Karnataka", "runs": 520, "matches": 5, "average": 104.00, "highest_score": "152"},
+            {"rank": 5, "name": "Prithvi Shaw", "team": "Mumbai", "runs": 490, "matches": 5, "average": 98.00, "highest_score": "185"}
+        ]
+    },
+    "4": {
+        "bowlers": [
+            {"rank": 1, "name": "Ravi Bishnoi", "team": "Rajasthan", "wickets": 18, "matches": 6, "average": 12.33, "best_figures": "4/15"},
+            {"rank": 2, "name": "Yuzvendra Chahal", "team": "Haryana", "wickets": 16, "matches": 5, "average": 13.75, "best_figures": "3/20"},
+            {"rank": 3, "name": "Rahul Chahar", "team": "Rajasthan", "wickets": 15, "matches": 6, "average": 14.20, "best_figures": "3/18"},
+            {"rank": 4, "name": "Arshdeep Singh", "team": "Punjab", "wickets": 14, "matches": 5, "average": 15.14, "best_figures": "3/22"},
+            {"rank": 5, "name": "Mohammed Siraj", "team": "Hyderabad", "wickets": 13, "matches": 5, "average": 16.15, "best_figures": "3/25"}
+        ],
+        "batsmen": [
+            {"rank": 1, "name": "Ruturaj Gaikwad", "team": "Maharashtra", "runs": 420, "matches": 5, "average": 105.00, "highest_score": "112"},
+            {"rank": 2, "name": "Prithvi Shaw", "team": "Mumbai", "runs": 380, "matches": 5, "average": 95.00, "highest_score": "134"},
+            {"rank": 3, "name": "Ishan Kishan", "team": "Jharkhand", "runs": 360, "matches": 5, "average": 90.00, "highest_score": "113"},
+            {"rank": 4, "name": "Devdutt Padikkal", "team": "Karnataka", "runs": 340, "matches": 5, "average": 85.00, "highest_score": "124"},
+            {"rank": 5, "name": "Shubman Gill", "team": "Punjab", "runs": 320, "matches": 5, "average": 80.00, "highest_score": "126"}
+        ]
+    },
+    "5": {
+        "bowlers": [
+            {"rank": 1, "name": "Jaydev Unadkat", "team": "West Zone", "wickets": 12, "matches": 2, "average": 16.25, "best_figures": "5/45"},
+            {"rank": 2, "name": "Ravichandran Ashwin", "team": "South Zone", "wickets": 10, "matches": 2, "average": 18.30, "best_figures": "4/52"},
+            {"rank": 3, "name": "Saurabh Kumar", "team": "North Zone", "wickets": 9, "matches": 2, "average": 19.44, "best_figures": "4/48"},
+            {"rank": 4, "name": "Rahul Chahar", "team": "West Zone", "wickets": 8, "matches": 2, "average": 20.50, "best_figures": "3/42"},
+            {"rank": 5, "name": "Navdeep Saini", "team": "North Zone", "wickets": 7, "matches": 2, "average": 21.71, "best_figures": "3/55"}
+        ],
+        "batsmen": [
+            {"rank": 1, "name": "Yashasvi Jaiswal", "team": "West Zone", "runs": 265, "matches": 2, "average": 88.33, "highest_score": "145"},
+            {"rank": 2, "name": "Hanuma Vihari", "team": "South Zone", "runs": 240, "matches": 2, "average": 80.00, "highest_score": "138"},
+            {"rank": 3, "name": "Abhimanyu Easwaran", "team": "East Zone", "runs": 220, "matches": 2, "average": 73.33, "highest_score": "128"},
+            {"rank": 4, "name": "Ruturaj Gaikwad", "team": "West Zone", "runs": 210, "matches": 2, "average": 70.00, "highest_score": "118"},
+            {"rank": 5, "name": "Sarfaraz Khan", "team": "West Zone", "runs": 195, "matches": 2, "average": 65.00, "highest_score": "125"}
+        ]
+    },
+    "6": {
+        "bowlers": [
+            {"rank": 1, "name": "Ravi Bishnoi", "team": "India B", "wickets": 10, "matches": 3, "average": 14.20, "best_figures": "4/25"},
+            {"rank": 2, "name": "Yuzvendra Chahal", "team": "India A", "wickets": 9, "matches": 3, "average": 15.33, "best_figures": "3/28"},
+            {"rank": 3, "name": "Rahul Chahar", "team": "India C", "wickets": 8, "matches": 3, "average": 16.50, "best_figures": "3/30"},
+            {"rank": 4, "name": "Shahbaz Ahmed", "team": "India B", "wickets": 7, "matches": 3, "average": 17.71, "best_figures": "3/32"},
+            {"rank": 5, "name": "Kuldeep Yadav", "team": "India A", "wickets": 6, "matches": 3, "average": 18.83, "best_figures": "3/35"}
+        ],
+        "batsmen": [
+            {"rank": 1, "name": "Ruturaj Gaikwad", "team": "India A", "runs": 280, "matches": 3, "average": 93.33, "highest_score": "132"},
+            {"rank": 2, "name": "Shubman Gill", "team": "India B", "runs": 260, "matches": 3, "average": 86.66, "highest_score": "128"},
+            {"rank": 3, "name": "Ishan Kishan", "team": "India C", "runs": 240, "matches": 3, "average": 80.00, "highest_score": "118"},
+            {"rank": 4, "name": "Devdutt Padikkal", "team": "India A", "runs": 220, "matches": 3, "average": 73.33, "highest_score": "112"},
+            {"rank": 5, "name": "Prithvi Shaw", "team": "India B", "runs": 200, "matches": 3, "average": 66.66, "highest_score": "108"}
+        ]
+    }
+}
